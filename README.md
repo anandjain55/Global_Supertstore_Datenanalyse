@@ -1,1 +1,1 @@
-# SQL_PowerBI_Hotel_Revenue-Dashboard
+Power-BI_Sales Dashboard
